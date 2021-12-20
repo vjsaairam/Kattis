@@ -1,2 +1,2 @@
 # Kattis programming
-Here u get the pyhton programming of Kattis.
+Here you get the python programming of Kattis.
